@@ -1,0 +1,42 @@
+F:\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+F:\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\Facturacion.exe
+F:\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+F:\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+F:\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.Properties.Resources.resources
+F:\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+F:\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.exe
+F:\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+F:\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.Principal.resources
+F:\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.Login.resources
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.exe
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.Principal.resources
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.Login.resources
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.Properties.Resources.resources
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\Facturacion.exe
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\MySql.Data.dll
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\MySql.Data.Entity.dll
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\MySql.Web.dll
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.Factura.resources
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.BuscarProducto.resources
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\itextsharp.dll
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\itextsharp.pdfa.dll
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\itextsharp.xtra.dll
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\itextsharp.xml
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.ReporteFactura.resources
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\Interop.AcroPDFLib.dll
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Interop.Acrobat.dll
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Interop.AcroPDFLib.dll
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.ResolveComReference.cache
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\Facturacion.exe.manifest
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\bin\Debug\Facturacion.application
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.exe.manifest
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.application
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.Abonos.resources
+E:\back up usb\ProyectoFactoriacion CSharp\Facturacion\Facturacion\obj\Debug\Facturacion.Proveedores.resources
